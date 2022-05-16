@@ -1,10 +1,16 @@
-- 👋 Hi, I’m @kinblendjs
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there i'm Sebazz 🐬
+GitHub Badge Twitter Badge Discord Badge
+An enthusiastic guy who likes to program discord bots and do projects for people.
 
-<!---
-kinblendjs/kinblendjs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Resources
+  
+
+# Projects
+🌸 Nino Discord bot with sapphire framework
+🐬Keta A sapphire framework template
+# Stats
+
+<img  aling="left"  width="47%" src="(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)" />
+
+<img  aling="left"  width="47%" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+
